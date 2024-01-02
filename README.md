@@ -4,7 +4,7 @@
 
 ## Overview of Analysis
 
-In this module challenge, we used Tableau to create visualizations of bike data in order to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+Use Tableau to create visualizations of bike data to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 ## Results 
 
